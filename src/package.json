@@ -1,0 +1,18 @@
+{
+  "name": "whar-source-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@g-js-api/g.js": "^2.0.3",
+    "geometrizejs": "^0.0.19",
+    "jimp": "^0.22.10",
+    "log-update": "^4.0.0"
+  }
+}
