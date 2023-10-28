@@ -10,7 +10,7 @@ Source code for WHAR
 Only works for Windows.
 
 # Instructions
-Run these commands below:
+Run these commands below to download the source code & install all dependencies:
 ```
 git clone https://github.com/RealSput/WHAR-source-code
 cd WHAR-source-code/src
