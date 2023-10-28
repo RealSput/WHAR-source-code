@@ -129,7 +129,7 @@ let json_data = { // tells the program if and how to load JSON files/write to th
     if (!json_data.json) {
         let frame = 1;
         let max_frames = 111; // amount of frames 
-        let folder_name = "gameplay-1"; // folder name where frames are stored
+        let folder_name = "../frames"; // folder name where frames are stored
 
         while (frame < max_frames) {
             let file = await readfile(`${folder_name}/${zeroPad(frame, 4)}.png`);
