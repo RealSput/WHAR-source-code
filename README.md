@@ -1,5 +1,9 @@
 # WHAR-source-code
-Source code for WHAR
+Source code for WHAR (WIP)
+
+## Current progress:
+
+[![WHAR Preview 1](https://img.youtube.com/vi/S1iVMNuTeCY/0.jpg)](https://www.youtube.com/watch?v=S1iVMNuTeCY)
 
 # Files included:
 - Blender scene (blender-files/gameplay.blend)
